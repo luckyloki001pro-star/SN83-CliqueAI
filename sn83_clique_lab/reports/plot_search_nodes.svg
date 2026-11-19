@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="210.0" y="24" text-anchor="middle" font-size="14" font-family="sans-serif">Search nodes: baseline vs selective ULM</text>
+<line x1="50.0" y1="370.0" x2="370.0" y2="50.0" stroke="#aaa" stroke-dasharray="4"/>
+<circle cx="50.0" cy="370.0" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="50.0" cy="370.0" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="52.3" cy="368.2" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="52.3" cy="368.2" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="187.0" cy="255.1" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="282.1" cy="176.5" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="161.5" cy="274.6" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="243.4" cy="287.0" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="133.2" cy="250.0" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="291.9" cy="175.9" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="234.1" cy="247.7" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="370.0" cy="131.0" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="156.8" cy="270.8" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="260.2" cy="204.7" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="175.4" cy="253.0" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<circle cx="262.1" cy="192.0" r="4" fill="#ff7f0e" fill-opacity="0.8"/>
+<text x="210.0" y="408" text-anchor="middle" font-size="12" font-family="sans-serif">Baseline nodes</text>
+</svg>

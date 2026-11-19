@@ -1,0 +1,24 @@
+size=15 runtime_ms=768.2 nodes=4382 ulm_ms=100.3
+         1546817 function calls (1542436 primitive calls) in 0.773 seconds
+
+   Ordered by: cumulative time
+   List reduced from 67 to 15 due to restriction <15>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.778    0.778 <stdin>:9(run)
+        1    0.000    0.000    0.778    0.778 /home/CliqueAI/sn83_clique_lab/clique/solver.py:102(solve_graph)
+        1    0.000    0.000    0.768    0.768 /home/CliqueAI/sn83_clique_lab/clique/branch_bound.py:72(solve_bnb)
+   4382/1    0.033    0.000    0.768    0.768 /home/CliqueAI/sn83_clique_lab/clique/branch_bound.py:119(expand)
+     4382    0.204    0.000    0.619    0.000 /home/CliqueAI/sn83_clique_lab/clique/coloring.py:34(greedy_color_candidates)
+    58069    0.145    0.000    0.222    0.000 /home/CliqueAI/sn83_clique_lab/clique/bitset.py:30(bits_to_list)
+    57949    0.063    0.000    0.172    0.000 {method 'sort' of 'list' objects}
+      931    0.024    0.000    0.105    0.000 /home/CliqueAI/sn83_clique_lab/clique/ulm.py:65(tighten_bound)
+     1844    0.037    0.000    0.060    0.000 /home/CliqueAI/sn83_clique_lab/clique/ulm.py:179(_find_conflict)
+   131749    0.037    0.000    0.057    0.000 /home/CliqueAI/sn83_clique_lab/clique/coloring.py:82(<lambda>)
+   356952    0.054    0.000    0.054    0.000 {method 'append' of 'list' objects}
+   131749    0.035    0.000    0.053    0.000 /home/CliqueAI/sn83_clique_lab/clique/coloring.py:57(<lambda>)
+   299970    0.044    0.000    0.044    0.000 {method 'bit_count' of 'int' objects}
+   289353    0.040    0.000    0.040    0.000 {method 'bit_length' of 'int' objects}
+    53567    0.012    0.000    0.012    0.000 {method 'extend' of 'list' objects}
+
+

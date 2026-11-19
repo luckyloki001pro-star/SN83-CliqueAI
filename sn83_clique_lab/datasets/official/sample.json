@@ -1,0 +1,27 @@
+{
+  "name": "sample",
+  "source_file": "/home/CliqueAI/test_data/sample.json",
+  "source_sha256": "0ed0f7833ab73df41615f9ddc6f6e05a1b5895cdd04e2a93580885f219a858ad",
+  "n": 3,
+  "edges": 3,
+  "density": 1.0,
+  "dataset": "official",
+  "encoded_matrix": "    $)",
+  "adjacency_list": [
+    [
+      1,
+      2
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "graph_hash": "51b2cf57cfe7e5a5f90a1dc6d7bf11844282375402df9197063b512b2f08a97c",
+  "label": "general",
+  "timeout_field": 30.0
+}

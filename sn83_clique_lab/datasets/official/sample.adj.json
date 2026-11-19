@@ -1,0 +1,1 @@
+{"name": "sample", "n": 3, "adjacency_list": [[1, 2], [0, 2], [0, 1]], "graph_hash": "51b2cf57cfe7e5a5f90a1dc6d7bf11844282375402df9197063b512b2f08a97c", "density": 1.0, "edges": 3, "dataset": "official"}

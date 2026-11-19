@@ -1,0 +1,96 @@
+{
+  "summary": {
+    "baseline": {
+      "runs": 16,
+      "mean_clique_size": 17.5625,
+      "median_clique_size": 21,
+      "best_clique_size": 23,
+      "mean_runtime_ms": 5635.716723749283,
+      "median_runtime_ms": 5501.779469996109,
+      "mean_ulm_time_ms": 0.0,
+      "ulm_overhead_pct": 0.0,
+      "invalid": 0,
+      "deadline_reached": 12,
+      "mean_search_nodes": 72526.125,
+      "mean_ulm_prunes": 0.0
+    },
+    "ulm": {
+      "runs": 16,
+      "mean_clique_size": 17.5625,
+      "median_clique_size": 21,
+      "best_clique_size": 23,
+      "mean_runtime_ms": 5637.671073186993,
+      "median_runtime_ms": 5501.824338993174,
+      "mean_ulm_time_ms": 848.8558516875,
+      "ulm_overhead_pct": 15.056853098874376,
+      "invalid": 0,
+      "deadline_reached": 12,
+      "mean_search_nodes": 57509.8125,
+      "mean_ulm_prunes": 5890.6875
+    },
+    "selective_ulm": {
+      "runs": 16,
+      "mean_clique_size": 17.5625,
+      "median_clique_size": 21,
+      "best_clique_size": 23,
+      "mean_runtime_ms": 5637.470986624521,
+      "median_runtime_ms": 5501.778917998308,
+      "mean_ulm_time_ms": 589.504539,
+      "ulm_overhead_pct": 10.456897080245026,
+      "invalid": 0,
+      "deadline_reached": 12,
+      "mean_search_nodes": 57870.1875,
+      "mean_ulm_prunes": 5717.375
+    },
+    "networkx": {
+      "runs": 16,
+      "mean_clique_size": 13.875,
+      "median_clique_size": 16,
+      "best_clique_size": 18,
+      "mean_runtime_ms": 1979.9273246871962,
+      "median_runtime_ms": 1810.042215998692,
+      "mean_ulm_time_ms": 0.0,
+      "ulm_overhead_pct": 0.0,
+      "invalid": 0,
+      "deadline_reached": 1,
+      "mean_search_nodes": 0.0,
+      "mean_ulm_prunes": 0.0
+    }
+  },
+  "pairs": [
+    {
+      "pair": "ulm_vs_baseline",
+      "comparisons": 16,
+      "wins": 0,
+      "ties": 16,
+      "losses": 0,
+      "mean_size_delta": 0.0,
+      "median_size_delta": 0.0,
+      "mean_runtime_delta_ms": 1.9543494377103343,
+      "mean_node_reduction_vs_b": 0.16920309452274607
+    },
+    {
+      "pair": "selective_ulm_vs_baseline",
+      "comparisons": 16,
+      "wins": 0,
+      "ties": 16,
+      "losses": 0,
+      "mean_size_delta": 0.0,
+      "median_size_delta": 0.0,
+      "mean_runtime_delta_ms": 1.7542628752380551,
+      "mean_node_reduction_vs_b": 0.14363053970227024
+    },
+    {
+      "pair": "selective_ulm_vs_ulm",
+      "comparisons": 16,
+      "wins": 0,
+      "ties": 16,
+      "losses": 0,
+      "mean_size_delta": 0.0,
+      "median_size_delta": 0.0,
+      "mean_runtime_delta_ms": -0.20008656247227918,
+      "mean_node_reduction_vs_b": -0.033411091392429045
+    }
+  ],
+  "plots": []
+}

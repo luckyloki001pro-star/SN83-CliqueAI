@@ -1,0 +1,14 @@
+{
+  "mode": "full",
+  "timeouts_by_n": {
+    "default": [6.0, 7.5, 10.0, 15.0, 30.0],
+    "n_ge_890": [7.5, 10.0, 15.0, 30.0]
+  },
+  "methods": ["baseline", "ulm", "selective_ulm", "networkx"],
+  "seeds": [42, 43],
+  "safety_margin_ms": 500,
+  "splits": ["eval"],
+  "include_official": true,
+  "rotate_methods": true,
+  "note": "Held-out eval split; do not tune selective thresholds on this set"
+}

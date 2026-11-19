@@ -1,0 +1,24 @@
+{
+  "access_status": "ok",
+  "wandb_api_key_configured": false,
+  "status": {
+    "method": "forge.coreweave.com/api/wandb/graphql sampledHistory(minStep/maxStep)",
+    "ok": true,
+    "error": null,
+    "run_ids": [
+      "5CJmEokTjtqe4bsXsNfEzTv9bjW26R4A4iYS7hi1nz5p4s83-0.0.17-83"
+    ],
+    "rows_seen": 20,
+    "records_parsed": 20,
+    "max_step": 102481,
+    "note": "Public Forge GraphQL; no WANDB_API_KEY. Fetched latest 20 challenge steps from validator run."
+  },
+  "selected_count": 20,
+  "retrieved_at_utc": "2026-11-18T15:18:23.253184+00:00",
+  "warnings": [
+    {
+      "type": "incomplete_reads",
+      "detail": "2 steps failed IncompleteRead and were skipped (102471, 102468); next available steps used to reach 20"
+    }
+  ]
+}

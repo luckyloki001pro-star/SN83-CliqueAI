@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360">
+<rect width="100%" height="100%" fill="white"/>
+<text x="360.0" y="24" text-anchor="middle" font-size="16" font-family="sans-serif">ULM overhead % by category</text>
+<rect x="50.0" y="94.1" width="115.5" height="145.9" fill="#1f77b4"/>
+<text x="107.8" y="252" transform="rotate(35 107.8,252)" font-size="10" font-family="sans-serif">selective_ulm|dense_random</text>
+<rect x="215.0" y="121.0" width="115.5" height="119.0" fill="#1f77b4"/>
+<text x="272.8" y="252" transform="rotate(35 272.8,252)" font-size="10" font-family="sans-serif">selective_ulm|official</text>
+<rect x="380.0" y="40.0" width="115.5" height="200.0" fill="#1f77b4"/>
+<text x="437.8" y="252" transform="rotate(35 437.8,252)" font-size="10" font-family="sans-serif">ulm|dense_random</text>
+<rect x="545.0" y="67.0" width="115.5" height="173.0" fill="#1f77b4"/>
+<text x="602.8" y="252" transform="rotate(35 602.8,252)" font-size="10" font-family="sans-serif">ulm|official</text>
+</svg>

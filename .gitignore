@@ -170,3 +170,13 @@ bittensor_test/
 
 # act secrets
 .secrets
+
+# SN83 lab local/heavy artifacts
+sn83_clique_lab/.deps/
+sn83_clique_lab/.pytest_cache/
+sn83_clique_lab/**/__pycache__/
+sn83_clique_lab/*.egg-info/
+sn83_clique_lab/results/
+sn83_clique_lab/datasets/synthetic/
+sn83_clique_lab/datasets/sn83_history/raw/
+.cursor/

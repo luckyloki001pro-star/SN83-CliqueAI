@@ -1,0 +1,38 @@
+{
+  "count": 4,
+  "source": "/home/CliqueAI/test_data",
+  "graphs": [
+    {
+      "name": "general_0.1",
+      "n": 90,
+      "edges": 3225,
+      "density": 0.8052434456928839,
+      "sha256": "bf509aec11a9f635d32947bae4b794287c209348e11dcdd55ea1cdf12808a1af",
+      "graph_hash": "00f946e7cc4563d9a0c5cda9a87d867d1c7398e0f6c99cc4b075cd98eafebd08"
+    },
+    {
+      "name": "general_0.2",
+      "n": 298,
+      "edges": 32574,
+      "density": 0.7360856891058233,
+      "sha256": "05ae3b2e2e60335c73b2f902d988a07620dd705a170e8a4050adb8e67c742d67",
+      "graph_hash": "148cf19abc6f4260f0c7212dadac4154bbbfa0d4da0689974f03aa305222599b"
+    },
+    {
+      "name": "general_0.4",
+      "n": 493,
+      "edges": 89181,
+      "density": 0.7353435907584228,
+      "sha256": "a147ac636e98224f439173c7a519d63930b9eb7b3878b8ea0a1081c1f392e015",
+      "graph_hash": "d56367a5960b7b6d1e9f580c46a3f62911d55afe789125a64ecd516ef3ecdcc9"
+    },
+    {
+      "name": "sample",
+      "n": 3,
+      "edges": 3,
+      "density": 1.0,
+      "sha256": "0ed0f7833ab73df41615f9ddc6f6e05a1b5895cdd04e2a93580885f219a858ad",
+      "graph_hash": "51b2cf57cfe7e5a5f90a1dc6d7bf11844282375402df9197063b512b2f08a97c"
+    }
+  ]
+}

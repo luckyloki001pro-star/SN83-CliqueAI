@@ -1,0 +1,74 @@
+{
+  "source_project": "toptensor-ai/CliqueAI",
+  "source": "forge GraphQL sampledHistory (toptensor-ai/CliqueAI run 5CJmEokTjtqe4bsXsNfEzTv9bjW26R4A4iYS7hi1nz5p4s83-0.0.17-83)",
+  "source_urls": [
+    "https://forge.coreweave.com/api/wandb/graphql",
+    "https://forge.coreweave.com/wandb/toptensor-ai/CliqueAI"
+  ],
+  "retrieval_timestamp_utc": "2026-11-18T15:18:09.645744+00:00",
+  "wandb_run_ids": [
+    "5CJmEokTjtqe4bsXsNfEzTv9bjW26R4A4iYS7hi1nz5p4s83-0.0.17-83"
+  ],
+  "retrieved_records": 20,
+  "complete_records": 20,
+  "selected_count": 20,
+  "selected_uuids": [
+    "fc92cd37-8229-42c8-9397-eb996f686e6a",
+    "53839380-d224-4048-8ecd-8a776a37ada9",
+    "2c36dae9-56a6-4d16-85b9-c8e5c26d157e",
+    "f12351e7-28ed-4ec9-b8d6-f77dd8317b63",
+    "1a5fcb5c-480a-4658-bc93-07d1fff4fcce",
+    "188a4272-d29e-47ee-aa22-e87009e4bc89",
+    "fe10c0b3-ca81-4918-af02-cca346b0e75e",
+    "42c827b2-c42b-46c0-bdaf-5988db3425f0",
+    "7a5ba71a-a6ed-4289-8901-4133622240be",
+    "b389bbe3-e958-40e1-9055-698f18da6e23",
+    "1987b6bb-9afb-4323-9951-3ca264dd17b5",
+    "22bc813e-0c98-4367-8dd9-7fa4d8247b19",
+    "9645a4e8-e2a4-4921-8581-e6a3803b4e31",
+    "577e9988-d4d1-4546-ac7a-e779b5c9919c",
+    "1231dc5e-eab9-42e6-9627-4430480598f3",
+    "1db8cfb3-163d-4879-9d28-f9d8b4c1306c",
+    "4c69bfb1-dd54-4127-85f8-2349012ddb8e",
+    "9bd55ea0-5149-448a-891c-834ebd87efdd",
+    "07965b58-2bd0-4337-871d-0e4ce4a60bbb",
+    "225ce3c0-3ed0-4980-9ea6-d0ade1cb3671"
+  ],
+  "source_timestamps": [
+    1794993834.5636976,
+    1794993634.9541612,
+    1794992445.4298613,
+    1794992037.0209463,
+    1794991273.3948898,
+    1794990635.1869538,
+    1794990439.0479944,
+    1794990375.31833,
+    1794989968.1100535,
+    1794989826.6150727,
+    1794989621.4701304,
+    1794989557.9723792,
+    1794989293.9131062,
+    1794989236.9369745,
+    1794989156.3915644,
+    1794989099.9492483,
+    1794989039.6786728,
+    1794988964.7348073,
+    1794988895.8415883,
+    1794988833.8089044
+  ],
+  "timestamp_range": {
+    "min": 1794988833.8089044,
+    "max": 1794993834.5636976
+  },
+  "access_status": "ok",
+  "warnings": [
+    {
+      "type": "encoded_matrix",
+      "detail": "history encoded_matrix does not decode via GraphCodec; adjacency_list used"
+    },
+    {
+      "type": "incomplete_reads",
+      "detail": "steps 102471 and 102468 skipped; next steps filled to 20"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mode": "quick",
+  "timeouts": [6.0, 10.0],
+  "methods": ["baseline", "ulm", "selective_ulm", "networkx"],
+  "seeds": [42],
+  "safety_margin_ms": 500,
+  "max_graphs": 8,
+  "rotate_methods": true,
+  "note": "Official samples + selected 300/500 vertex graphs"
+}
